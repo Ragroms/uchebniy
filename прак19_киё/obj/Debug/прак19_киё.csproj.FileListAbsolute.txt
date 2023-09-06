@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\прак19_киё\obj\Debug\прак19_киё.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\прак19_киё\obj\Debug\прак19_киё.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\прак19_киё\obj\Debug\прак19_киё.Form1.resources
+C:\Users\user\source\repos\прак19_киё\obj\Debug\прак19_киё.Form2.resources
+C:\Users\user\source\repos\прак19_киё\obj\Debug\прак19_киё.Properties.Resources.resources
+C:\Users\user\source\repos\прак19_киё\obj\Debug\прак19_киё.csproj.GenerateResource.cache
+C:\Users\user\source\repos\прак19_киё\obj\Debug\прак19_киё.csproj.CoreCompileInputs.cache
