@@ -1,0 +1,15 @@
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\bin\Debug\net6.0\ПР10.exe
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\bin\Debug\net6.0\ПР10.deps.json
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\bin\Debug\net6.0\ПР10.runtimeconfig.json
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\bin\Debug\net6.0\ПР10.dll
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\bin\Debug\net6.0\ПР10.pdb
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\obj\Debug\net6.0\ПР10.csproj.AssemblyReference.cache
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\obj\Debug\net6.0\ПР10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\obj\Debug\net6.0\ПР10.AssemblyInfoInputs.cache
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\obj\Debug\net6.0\ПР10.AssemblyInfo.cs
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\obj\Debug\net6.0\ПР10.csproj.CoreCompileInputs.cache
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\obj\Debug\net6.0\ПР10.dll
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\obj\Debug\net6.0\refint\ПР10.dll
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\obj\Debug\net6.0\ПР10.pdb
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\obj\Debug\net6.0\ПР10.genruntimeconfig.cache
+C:\Users\olegs\Desktop\УЧЕБА\ПР10\obj\Debug\net6.0\ref\ПР10.dll
