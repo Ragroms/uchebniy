@@ -1,0 +1,12 @@
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\bin\Debug\прак 16.exe.config
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\bin\Debug\прак 16.exe
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\bin\Debug\прак 16.pdb
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\obj\Debug\прак 16.csproj.AssemblyReference.cache
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\obj\Debug\прак 16.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\obj\Debug\прак_16.Form1.resources
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\obj\Debug\прак_16.Form2.resources
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\obj\Debug\прак_16.Properties.Resources.resources
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\obj\Debug\прак 16.csproj.GenerateResource.cache
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\obj\Debug\прак 16.csproj.CoreCompileInputs.cache
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\obj\Debug\прак 16.exe
+C:\Users\Juliya\Desktop\бла бла\прак 16\прак 16\obj\Debug\прак 16.pdb
