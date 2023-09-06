@@ -1,0 +1,15 @@
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\bin\Debug\net6.0\прак 14.exe
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\bin\Debug\net6.0\прак 14.deps.json
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\bin\Debug\net6.0\прак 14.runtimeconfig.json
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\bin\Debug\net6.0\прак 14.dll
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\bin\Debug\net6.0\прак 14.pdb
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\obj\Debug\net6.0\прак 14.csproj.AssemblyReference.cache
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\obj\Debug\net6.0\прак 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\obj\Debug\net6.0\прак 14.AssemblyInfoInputs.cache
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\obj\Debug\net6.0\прак 14.AssemblyInfo.cs
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\obj\Debug\net6.0\прак 14.csproj.CoreCompileInputs.cache
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\obj\Debug\net6.0\прак 14.dll
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\obj\Debug\net6.0\refint\прак 14.dll
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\obj\Debug\net6.0\прак 14.pdb
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\obj\Debug\net6.0\прак 14.genruntimeconfig.cache
+C:\Users\Juliya\Desktop\бла бла\прак 14\прак 14\obj\Debug\net6.0\ref\прак 14.dll
