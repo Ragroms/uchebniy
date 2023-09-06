@@ -1,0 +1,15 @@
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\bin\Debug\net6.0\4-2 повтор.exe
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\bin\Debug\net6.0\4-2 повтор.deps.json
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\bin\Debug\net6.0\4-2 повтор.runtimeconfig.json
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\bin\Debug\net6.0\4-2 повтор.dll
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\bin\Debug\net6.0\4-2 повтор.pdb
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\obj\Debug\net6.0\4-2 повтор.csproj.AssemblyReference.cache
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\obj\Debug\net6.0\4-2 повтор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\obj\Debug\net6.0\4-2 повтор.AssemblyInfoInputs.cache
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\obj\Debug\net6.0\4-2 повтор.AssemblyInfo.cs
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\obj\Debug\net6.0\4-2 повтор.csproj.CoreCompileInputs.cache
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\obj\Debug\net6.0\4-2 повтор.dll
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\obj\Debug\net6.0\refint\4-2 повтор.dll
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\obj\Debug\net6.0\4-2 повтор.pdb
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\obj\Debug\net6.0\4-2 повтор.genruntimeconfig.cache
+C:\Users\Juliya\Desktop\бла бла\4-2 повтор\4-2 повтор\obj\Debug\net6.0\ref\4-2 повтор.dll

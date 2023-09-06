@@ -1,0 +1,15 @@
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\bin\Debug\net6.0\3 прак.exe
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\bin\Debug\net6.0\3 прак.deps.json
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\bin\Debug\net6.0\3 прак.runtimeconfig.json
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\bin\Debug\net6.0\3 прак.dll
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\bin\Debug\net6.0\3 прак.pdb
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\obj\Debug\net6.0\3 прак.csproj.AssemblyReference.cache
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\obj\Debug\net6.0\3 прак.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\obj\Debug\net6.0\3 прак.AssemblyInfoInputs.cache
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\obj\Debug\net6.0\3 прак.AssemblyInfo.cs
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\obj\Debug\net6.0\3 прак.csproj.CoreCompileInputs.cache
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\obj\Debug\net6.0\3 прак.dll
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\obj\Debug\net6.0\refint\3 прак.dll
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\obj\Debug\net6.0\3 прак.pdb
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\obj\Debug\net6.0\3 прак.genruntimeconfig.cache
+C:\Users\Juliya\Desktop\бла бла\3 прак\3 прак\obj\Debug\net6.0\ref\3 прак.dll
